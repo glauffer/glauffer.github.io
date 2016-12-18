@@ -3,7 +3,6 @@ layout: post
 title: How to Install Jekyll on Ubuntu 16.04
 subtitle: Installing Jekyll, the static site generator engine used by GitHub Pages.
 ---
-{% include base_path %}
 
 [Jekyll](https://jekyllrb.com) is the Static Site Generator used on GitHub Pages. Here are some guidance to install this amazing tool on Ubuntu 16.04 and how to work locally on your GitHub page.
 
