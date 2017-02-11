@@ -24,7 +24,7 @@ description: Personal web site and blog
 # List of links in the navigation bar
 navbar-links:
   Home: "http://glauffer.github.io/"
-  Curriculum: "http://glauffer.github.io/docs/cd_gabriel.pdf"
+  Curriculum: "/docs/cd_gabriel.pdf"
   About me: "aboutme"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
