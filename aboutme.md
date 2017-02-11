@@ -3,8 +3,7 @@ layout: page
 title: "Gabriel Lauffer"
 subtitle: "M.A. student in astrophysics"
 meta-title: "Gabriel Lauffer - M.A. student"
-bigimg:
-  - "/img/hubble_nasa.jpg" : "Photo Credit: Hubble Space Telescope - NASA"
+image: "/img/aboutme.jpg"
 ---
 
 # Welcome!
