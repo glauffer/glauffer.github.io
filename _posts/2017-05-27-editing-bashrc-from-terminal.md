@@ -26,4 +26,4 @@ $ echo PATH=$PATH:$(pwd) >> ~/.bashrc
 
 And the most important information is:
 
-** to append a string to the end of the file, I have to use `>>` instead of `>`. Because of this mistake that I wrote this post! ** :)
+**to append a string to the end of the file, I have to use `>>` instead of `>`. Because of this mistake that I wrote this post!** :)
