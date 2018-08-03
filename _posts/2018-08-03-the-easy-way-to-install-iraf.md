@@ -28,9 +28,9 @@ Finally, let's add the astroconda channel on conda and install iraf:
 $ conda config --add channels http://ssb.stsci.edu/astroconda
 $ conda create -n iraf27 python=2.7 iraf-all pyraf-all stsci
 ```
-It will search for all packages and ask if you want to procced with installation. Type `y` and wait a little. Done! IRAF and pyRAF are installed.
+It will search for all packages and ask if you want to proceed with installation. Type `y` and wait a little. Done! IRAF and pyRAF are installed.
 
-#Starting IRAF or pyRAF
+# Starting IRAF or pyRAF
 
 To start working with IRAF we have to activate the iraf environment we installed with conda. This can be done typing in terminal:
 ```
