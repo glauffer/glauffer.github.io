@@ -3,6 +3,11 @@ layout: post
 title: Installing IRAF on Ubuntu 16.04
 ---
 
+
+*Check this [post](https://glauffer.github.io/2018-08-03-the-easy-way-to-install-iraf/) for a better and easier way to install IRAF.*
+
+**This is outdated**
+
 The [IRAF](http://iraf.noao.edu/) (Image Reduction and Analysis Facility) is a general purpose software system for the reduction and analysis of astronomical data. I had to use it for a class project on my masters and I discovery that  the installing instructions on its website are elusive. After some googling I figured out how to properly install on Ubuntu 16.04.
 
 The only package I had to install before starting the installation was the C-Shell, which can be installed by:
